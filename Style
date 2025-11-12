@@ -1,0 +1,17 @@
+body {
+	background-color: #fbe1e4;
+}
+
+ h1{
+ 	font-size: 44px;
+	color: purple;
+ }
+ 
+ 
+ body {
+	background-image: url('backgroundcats.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
