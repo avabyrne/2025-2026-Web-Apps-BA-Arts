@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head> 
 	<meta charset="UTF-8">
@@ -23,8 +24,12 @@
 	<br> Food its wisdom
 	<br> Near each noise
 	<br> It springs in silence.
-	<style> lol </style>
 	<p/>
+	
+<img src="MimiCoding.jpeg" alt="A beautiful image" width="200" height="300">
+
+<!-- TEMPORARY WEBSITE-->
+<a href="https://founderpal.ai/user-persona-generator"> Persona </a>
 
 </body>
 </html>
