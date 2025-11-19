@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<title> Cat shelter </title>
+	
+	
+
+
+<header>
+		<nav>
+			<div class="logo">Logo here</div>
+			<ul class="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Portfolio</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+</header>
+</head>
+
+
+<body>
+</body>
+
+</html>
