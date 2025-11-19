@@ -8,10 +8,41 @@ body {
  }
  
  
- body {
-	background-image: url('backgroundcats.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-
+ul {
+	list-style: none;
+	padding: 10x;
+	margin: 10x;
 }
+ 
+nav ul {
+	background-color: #33333; 
+	text-align: center; 
+}
+ 
+ 
+nav li {
+display: inline; 
+margin: 10px; 
+}
+
+/* Header */
+header{
+padding: 88px;
+text-align: center;
+background-color: #FE7F9C;
+color: #71C9CE;
+ }
+ 
+ 
+navbar{
+ 	background-color: #A6E3E9;
+    padding: 9px;
+	color: black
+ }
+
+navbar a{
+	float: center;
+	color: #FFFFFF;
+	padding: 10px 15px;
+	text-align: center;
+ }
