@@ -35,9 +35,9 @@ color: #71C9CE;
  
  
 navbar{
- 	background-color: #A6E3E9;
+ 	background-color: Black;
     padding: 9px;
-	color: black
+	color: black;
  }
 
 navbar a{
@@ -46,3 +46,8 @@ navbar a{
 	padding: 10px 15px;
 	text-align: center;
  }
+ 
+nav a:hover {
+background-color: #F2B8C6;
+color: #F25278;
+}
