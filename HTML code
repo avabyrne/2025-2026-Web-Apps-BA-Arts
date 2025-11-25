@@ -7,16 +7,15 @@
 
 
 
-
 <header>
 		<nav>
-			<div class="logo">Logo here</div>
+			<img src="catlogo.png" alt="A beautiful image" width="200" height="200">
 			<ul class="menu">
-				<li><a href="#">Home</a></li>
+				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">Portfolio</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="ourcats.html">Our Cats</a></li>
+				<li><a href="reviews.html">Reviews</a></li>
+				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</nav>
 </header>
@@ -25,27 +24,65 @@
 </head>
 <body>
 
-	<p>
-	<h1>Lost City Cat</h1>
-	<h2> By Hy Sobiloff </h2>
-	<br> Lost city cat
-	<br> Paws brush
-	<br> Awakens unwritten music
-	<br> Unravels an alley's tone
-	<br> Encounters a strange foe
-	<br> Country forest.
-	<br>
-	<br> A Cat's meow its true calling
-	<br> Sprawls, paws, stalking its only instinct 
-	<br> Ears wiggling for a sound
-	<br> Night its eyes
-	<br> Food its wisdom
-	<br> Near each noise
-	<br> It springs in silence.
-	<p/>
-	
-<img src="MimiCoding.jpeg" alt="A beautiful image" width="200" height="300">
+<hr> 
 
+	
+		
+		
+<div class="content-container">
+    <div class="column left-column">
+		<h1>Save a cat today!</h1>
+		<p> r <p/>
+
+<hr>	
+
+    </div>
+
+
+
+    <div class="column middle-column">
+        <img src="MimiCoding.jpeg" alt="A beautiful image" width="350" height="450">
+
+    </div>
+
+	
+
+    <div class="column right-column">
+		<h1>Lost City Cat</h1>
+		<h2> By Hy Sobiloff </h2>
+		<p>
+		<br> Lost city cat
+		<br> Paws brush
+		<br> Awakens unwritten music
+		<br> Unravels an alley's tone
+		<br> Encounters a strange foe
+		<br> Country forest.
+		<br>
+		<br> A Cat's meow its true calling
+		<br> Sprawls, paws, stalking its only instinct 
+		<br> Ears wiggling for a sound
+		<br> Night its eyes
+		<br> Food its wisdom
+		<br> Near each noise
+		<br> It springs in silence.
+		<p/>
+
+
+<hr>   
+   </div>
+
+</div>
+
+
+
+<div class="bottom-row">
+    <h2>Content below both columns</h2>
+
+</div>
+
+<div class="footer">
+    <h1>Thank you for visiting!</h1>
+</div>
 
 
 <!-- TEMPORARY WEBSITE-->
