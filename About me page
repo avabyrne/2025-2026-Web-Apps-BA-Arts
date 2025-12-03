@@ -3,6 +3,7 @@
 <head> 
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" type="image/png" href="images/catlogo.png">
 	<title> Cat shelter </title>
 	
 	
@@ -10,23 +11,94 @@
 
 <header>
 		<nav>
-			<img src="catlogo.png" alt="A beautiful image" width="200" height="200">
+			<img src="images/catlogo.png" alt="A beautiful image" width="200" height="200">
 			<ul class="menu">
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
 				<li><a href="ourcats.html">Our Cats</a></li>
-				<li><a href="reviews.html">Reviews</a></li>
+				<li><a href="reviews.html">Persona</a></li>
 				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</nav>
 </header>
 
-<p> about us </p> 
-
-
-
 </head>
+<body>
 
+
+
+<hr>
+
+<div class="content-container">
+    <div class="column right-column">
+		<h1>About us</h1>
+		<hr>
+		<p> Here at Cat Shelter we help rehome rescue cats!
+		<br>
+		All of our cats are looking for new homes.
+		<br>
+		If you are interested in adopting your new forever friend today,
+		then please <a href="file:///C:/Users/avaby/OneDrive%20-%20Dundalk%20Institute%20of%20Technology/Webapps/contact.html">contact us!</a>
+		<p/>
+
+<hr>	
+
+
+    </div>
+
+
+
+
+    <div class="column middle-column">
+        <img src="images/nuggetcat.jpg" alt="A beautiful image" width="350" height="450">
+
+    </div>
+	
+	    
+	<div class="column right-column">
+	<h1> Rehoming </h1>
+	<hr>
+	<p> Our rehoming process is simple yet affective to ensure every cat 
+	finds a safe, loving and caring home. 
+	<br>
+	<br>
+	Once our team confirms you are 
+	suitable for adoption, our team will guide you through the next steps
+	of taking your new forever friend home!
+	 
+	</p>
+	<hr>
+	
+	
+	
+	
+	
+	</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
+</body>
+</html>
 
 <body>
 </body>
