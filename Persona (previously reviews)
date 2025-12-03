@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html lang="en">
 <head> 
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" type="image/png" href="images/catlogo.png">
 	<title> Cat shelter </title>
 	
 	
@@ -9,23 +11,31 @@
 
 <header>
 		<nav>
-			<img src="catlogo.png" alt="A beautiful image" width="200" height="200">
+			<img src="images/catlogo.png" alt="A beautiful image" width="200" height="200">
 			<ul class="menu">
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
 				<li><a href="ourcats.html">Our Cats</a></li>
-				<li><a href="reviews.html">Reviews</a></li>
+				<li><a href="reviews.html">Persona</a></li>
 				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</nav>
 </header>
 
-<p> reviews alsndhdike </p> 
+<a href="https://founderpal.ai/user-persona-generator"> Persona </a> 
 
 
 
 </head>
 
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+<body>
+</body>
+
+</html>
 
 <body>
 </body>
