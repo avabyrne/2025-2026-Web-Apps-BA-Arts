@@ -3,18 +3,19 @@
 <head> 
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" type="image/png" href="images/catlogo.png">
 	<title> Cat shelter </title>
 
 
 
 <header>
 		<nav>
-			<img src="catlogo.png" alt="A beautiful image" width="200" height="200">
+			<img src="images/catlogo.png" alt="A beautiful image" width="200" height="200">
 			<ul class="menu">
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About</a></li>
 				<li><a href="ourcats.html">Our Cats</a></li>
-				<li><a href="reviews.html">Reviews</a></li>
+				<li><a href="reviews.html">Persona</a></li>
 				<li><a href="contact.html">Contact</a></li>
 			</ul>
 		</nav>
@@ -30,9 +31,16 @@
 		
 		
 <div class="content-container">
-    <div class="column left-column">
+    <div class="column second-left">
 		<h1>Save a cat today!</h1>
-		<p> r <p/>
+		<hr>
+		<p> Come take a browse at all our adorable cats!
+		<br>
+		All of our cats are looking for a new friendly home.
+		<br>
+		<br>
+		We hope you love them just as much as we do!
+		<p/>
 
 <hr>	
 
@@ -41,7 +49,7 @@
 
 
     <div class="column middle-column">
-        <img src="MimiCoding.jpeg" alt="A beautiful image" width="350" height="450">
+        <img src="images/MimiCoding.jpeg" alt="A beautiful image" width="350" height="450">
 
     </div>
 
@@ -50,6 +58,7 @@
     <div class="column right-column">
 		<h1>Lost City Cat</h1>
 		<h2> By Hy Sobiloff </h2>
+		<hr>
 		<p>
 		<br> Lost city cat
 		<br> Paws brush
@@ -76,13 +85,19 @@
 
 
 <div class="bottom-row">
-    <h2>Content below both columns</h2>
-
+    <h1>More </h1>
+	<hr>
+	<p> more info here </p>
+<hr>
 </div>
 
-<div class="footer">
-    <h1>Thank you for visiting!</h1>
-</div>
+<hr>
+
+<footer> 
+	<h1> Thank you for visiting! </h1>
+</footer>
+
+
 
 
 <!-- TEMPORARY WEBSITE-->
